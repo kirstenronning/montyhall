@@ -1,0 +1,7 @@
+change_door             Contestant can choose to change doors.
+create_game             Create a new Monty Hall Problem game.
+determine_winner        Determine if contestant has won.
+open_goat_door          Host opens goat door.
+play_game               Set up simulation.
+play_n_games            Add the game to a loop.
+select_door             Contestant selects a door.
